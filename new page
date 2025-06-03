@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+      <meta charset="urf-8">
+      <meta name="viewport" content="width=device-width, intial-scale=1"/>
+      <title>小老鼠</title>
+      <style>
+        body{
+            margin:0;
+        }
+      </style>
+</head>
+<body>
+  
+    <div style="
+    max-width:700px;
+    margin:30px auto;
+     text-align:center;
+    padding:15px;
+    line-height:1.7;
+    color:blue;
+    ">
+    <p>新网页！</p>
+   
+    </div>
+
+</body>
+</html>
